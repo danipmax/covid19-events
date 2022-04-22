@@ -2,6 +2,7 @@ cff-version: 1.2.0
 message: "If you use this data, please cite it as below."
 authors:
 - family-names: "Papamaximou"
+  given-names: "Dani"
 title: "Converting COVID19 events to numerical data"
 version: 1.0.0
 date-released: 2022-04-22
