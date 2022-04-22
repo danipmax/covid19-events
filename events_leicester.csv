@@ -1,0 +1,49 @@
+date,Event Description,Type of the event,lockdown_status
+2020-03-16," PM says ""now is the time for everyone to stop non-essential contact and travel""",PM / government announcements,0
+2020-03-19," PM says the UK can ""turn tide of coronavirus"" in 12 weeks",PM / government announcements,0
+2020-03-23," PM announces the first lockdown in the UK, ordering people to ""stay at home""",Lockdown/restrictions introduced,1
+2020-03-25, Coronavirus Act 2020 gets Royal Assent,Legislation / emergency powers,1
+2020-03-26, Lockdown measures legally come into force,Lockdown/restrictions introduced,1
+2020-04-16," Lockdown extended for ""at least"" 3 weeks. Government sets out five tests that must be met before restrictions are eased",Lockdown/restrictions introduced,1
+2020-04-30," PM says ""we are past the peak"" of the pandemic",PM / government announcements,1
+2020-05-10," PM announces a conditional plan for lifting lockdown, and says that people who cannot work from home should return to the workplace but avoid public transport",Lockdown restrictions eased,0.5
+2020-06-01, Phased re-opening of schools in England,Lockdown restrictions eased,0.5
+2020-06-15, Non-essential shops reopen in England,Lockdown restrictions eased,0.5
+2020-06-23," PM says UK's ""national hibernation"" coming to an end — announces relaxing Of restrictions and 2m social distancing rule",Lockdown restrictions eased,0.5
+2020-06-29, Matt Hancock announces that the UK's first local lockdown would be applied in Leicester and parts of Leicestershire,PM / government announcements,0.5
+2020-07-04, UK's first local lockdown comes into force in Leicester and parts of Leicestershire. ,Lockdown/restrictions introduced,1
+2020-07-04,"More restrictions are eased in England, including reopening of pubs, restaurants, hairdressers. ",Lockdown restrictions eased,1
+2020-07-18, Local authorities in England gain additional powers to enforce social distancing,Legislation / emergency powers,0.5
+2020-08-03," Eat Out to Help Out scheme, offering a 50% discount on meals up to £10 per person, begins in the UK",Lockdown restrictions eased,0
+2020-08-14," Lockdown restrictions eased further, including reopening indoor theatres, bowling alleys and soft play",Lockdown restrictions eased,0
+2020-09-14, 'Rule of six' - indoor and outdoor social gatherings above six banned in England,Lockdown/restrictions introduced,0.5
+2020-09-22," PM announces new restrictions in England,including a return to working from home and 10pm curfew for hospitality sector",Lockdown/restrictions introduced,0.5
+2020-09-30," PM says UK at a ""critical moment"" in the crisis and would ""not hesitate"" to impose further restrictions if needed",PM / government announcements,0.5
+2020-10-14, A new three-tier system of Covid-19 restrictions starts in England,Lockdown/restrictions introduced,0.5
+2020-10-31," PM announces a second lockdown in England to prevent a ""medical and moral disaster"" for the NHS",PM / government announcements,1
+2020-11-05, Second national lockdown comes into force in England,Lockdown/restrictions introduced,1
+2020-11-24, PM announces up to three households will be able to meet up during during a five-day Christmas period of 23 to 27,Lockdown restrictions eased,1
+2020-12-02, Second lockdown ends after four weeks and England returns to a stricter three-tier system of restrictions,Lockdown/restrictions introduced,1
+2020-12-15," PM says Christmas rules will still be relaxed but urges the public to keep celebrations ""short"" and ""small""",Lockdown restrictions eased,1
+2020-12-19," PM announces tougher restrictions for London and South East England, with a new Tier 4: 'Stay at Home' alert level. Christmas mixing rules tightened.",PM / government announcements,1
+2020-12-21, Tier 4 restrictions come into force in London and South East England,Lockdown/restrictions introduced,1
+2020-12-26, More areas of England enter Tier 4 restrictions,Lockdown/restrictions introduced,1
+2021-01-04," PM says children should return to school after the Christmas break, but warns restrictions in England will get tougher",PM / government announcements,1
+2021-01-06, England enters third national lockdown,Lockdown/restrictions introduced,1
+2021-02-15, Hotel quarantine for travellers arriving in England from 33 high-risk countries begins ,Lockdown/restrictions introduced,1
+2021-02-22, PM publishes a roadmap for lifting the lockdown,Lockdown restrictions eased,1
+2021-03-08,  Step 1: Schools in England reopen for primary and secondary school students. Recreation in an outdoor public spaces will be allowed between two people. 'Stay at home' order remains in place.,Lockdown restrictions eased,0.5
+2021-03-29," step 1: Outdoor gatherings Of either six people or two households will be allowed, including in private gardens. Outdoor sports facilities also reopen. 'Stay at home' order ends but people encouraged to stay local.",Lockdown restrictions eased,0.5
+2021-04-12," Step 2: Non-essential retail, hairdressers, public buildings (e.g libraries and museums) reopen. Outdoor venues, including pubs and restaurants, zoos and theme parks also open, as well as indoor leisure (e.g. gyms). Self-contained holiday accommodation opens. Wider social contact rules continue to apply in all settings - no indoor mixing between different households allowed.",Lockdown restrictions eased,0.5
+2021-05-17," step 3: Limit Of 30 people allowed to mix outdoors. 'Rule Of six' or two households allowed for indoor social gatherings. Indoor venues will reopen, including pubs, restaurants. cinemas. Up to 10.000 spectators can attend the very largest outdoor-seated venues like football stadiums.",Lockdown restrictions eased,0
+2021-06-21, Step 4: All legal limits on social contact removed. and the final closed sectors of the economy reopened (e.g. nightclubs). Restrictions on weddings and funerals also abolished.,Lockdown restrictions eased,0
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+                ,,,
